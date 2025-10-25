@@ -24,3 +24,9 @@ git clone https://github.com/acanalesmahuzier/proyecto7
 ```bash
 pip install -r requirements.txt
 ```
+## Contenido
+- Acanales_Proyecto_7_final.ipynb(notebook)
+- final2.py (Archivo flask app)
+- google_playstore_user_reviews.csv.zip (data)
+- sentiment_model.joblib (modelo entrenado)
+- vectorizer.joblib (vectorizador del modelo)
