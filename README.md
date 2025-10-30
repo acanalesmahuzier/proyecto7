@@ -30,3 +30,4 @@ pip install -r requirements.txt
 - google_playstore_user_reviews.csv.zip (data)
 - sentiment_model.joblib (modelo entrenado)
 - vectorizer.joblib (vectorizador del modelo)
+- Presentacion_Proyecto7_GooglePlay.pptx (Presentación en powerpoint)
